@@ -8,8 +8,11 @@ MOTIVATIONS
 - revenge and grudges: they target organisations or individuals because they feel wronged and want to settle a score e.g suspended employee
 - ego and thrill: some do it for fun and feeling of greatness that comes from beating powerful organisations or individuals.
 - espionage: cybercriminals and even nation states steal another county or organisation's valuable data and intellectual property to their advantage.
+- 
 EFFECTS OF CYBERCRIME ON;
+
  INDIVIDUALS
+ 
 - direct financial loss
 - identity theft which is used to commit other fraudulant cybercrimes
 - psychological impact due to online harrasment and cyberbullying
